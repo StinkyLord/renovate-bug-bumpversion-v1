@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>bugs.renovate</groupId>
 	<artifactId>bumpversion</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 
 	<properties>
-		<keycloak.version>12.0.1</keycloak.version>
+		<keycloak.version>12.0.4</k12.0.4
 	</properties>
 
 	<dependencies>
